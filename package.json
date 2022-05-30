@@ -46,6 +46,7 @@
         "node-red-node-mongodb": "latest",
         "node-red-node-ui-list": "latest",
         "node-red-node-ui-table": "latest",
+        "node-red-contrib-iot-simulator": "0.0.1",
         "redis": "3.0.2",
         "when": "3.7.8"
     }
