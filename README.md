@@ -1,4 +1,4 @@
-DISCLAIMER
+# DISCLAIMER
 ================
 
 The whole content of this repository were not made by me, the owner. I simply copied other people's codes into this repository and test if they would work properly. In other words, I am testing them. These people are the true creator's of the codes:
@@ -15,9 +15,7 @@ Both of them can be found in github. I took the internet simulator codes from ph
 
 I can not be more thankful to them for their aid in my journey through my DAA class, even though they do not and perhaps will never know me.
 
-### In case I haven't made this clear, I DO NOT own nor create the codes which are located in this repository.
-
-================
+#### **In case I haven't made this clear, I DO NOT own and DID NOT create the codes which are located in this repository.**
 
 # nodered-heroku
 A wrapper for deploying [Node-RED](http://nodered.org) into the [Heroku](https://www.heroku.com).
